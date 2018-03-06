@@ -17,5 +17,6 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     public void onClick(View v) {
         Log.e("mester", "log测试" );
         Log.e("测试","我是log");
+        Log.e("test1", "预备Log");
     }
 }
